@@ -1,1 +1,10 @@
 .idea/
+
+**/.terraform/
+**/.terraform.lock.hcl
+**/.terraform.tfstate.lock.info
+**/main.tfplan
+**/main.destroy.tfplan
+**/*.tfstate
+**/terraform.tfstate.backup
+terraform/k8s-training-config
